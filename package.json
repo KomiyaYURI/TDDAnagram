@@ -1,0 +1,19 @@
+{
+  "name": "coachplan2018",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "description": ""
+}
